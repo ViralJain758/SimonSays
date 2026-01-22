@@ -1,4 +1,4 @@
-# 🎮 Simon Says Game
+#  Simon Says Game
 
 A responsive, browser-based implementation of the classic **Simon Says** memory game built using **HTML, CSS, and JavaScript**.
 
@@ -6,7 +6,13 @@ This project focuses on clean game logic, DOM manipulation, and responsive UI de
 
 ---
 
-## ✨ Features
+## Live Demo
+
+https://simonsays-viraljain.netlify.app/
+
+---
+
+##  Features
 
 - Classic Simon Says gameplay  
 - Level-based progression  
@@ -19,7 +25,7 @@ This project focuses on clean game logic, DOM manipulation, and responsive UI de
 
 ---
 
-## 🧠 How the Game Works
+##  How the Game Works
 
 1. Press **any key** to start the game  
 2. The game flashes a random color  
@@ -30,7 +36,7 @@ This project focuses on clean game logic, DOM manipulation, and responsive UI de
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **HTML** — structure  
 - **CSS** — styling, animations, responsiveness  
@@ -52,14 +58,14 @@ No frameworks. No dependencies. Pure fundamentals.
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 - **Keyboard**: Press any key to start or restart  
 - **Mouse / Touch**: Click the colored buttons to play  
 
 ---
 
-## 📱 Responsiveness
+##  Responsiveness
 
 - Buttons scale based on screen size  
 - Layout adapts cleanly for mobile devices  
@@ -67,7 +73,7 @@ No frameworks. No dependencies. Pure fundamentals.
 
 ---
 
-## 🚀 Possible Enhancements
+##  Possible Enhancements
 
 - Add sound effects for each button  
 - Store high scores using `localStorage`  
@@ -76,7 +82,7 @@ No frameworks. No dependencies. Pure fundamentals.
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 Built as a learning project to practice:
 - DOM manipulation  
@@ -86,6 +92,6 @@ Built as a learning project to practice:
 
 ---
 
-## 📄 License
+##  License
 
 Open-source for learning and personal use.
